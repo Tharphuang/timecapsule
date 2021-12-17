@@ -10,7 +10,7 @@
       </div>
     </div>
 
-    <div>""</div>
+    <div>" "</div>
 
     <div class="usermotto">
       <div class="user-motto">
